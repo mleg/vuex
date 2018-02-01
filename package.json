@@ -1,13 +1,12 @@
 {
-  "name": "vuex",
+  "name": "vuex-mleg-helpers",
   "version": "3.0.1",
   "description": "state management for Vue.js",
-  "main": "dist/vuex.common.js",
-  "module": "dist/vuex.esm.js",
+  "main": "src/helpers.js",
   "unpkg": "dist/vuex.js",
   "typings": "types/index.d.ts",
   "files": [
-    "dist",
+    "src/helpers.js",
     "types/index.d.ts",
     "types/helpers.d.ts",
     "types/vue.d.ts"
